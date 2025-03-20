@@ -1,0 +1,28 @@
+references
+comands.txt
+*.gch
+
+# Philo 
+philo
+.txt
+# System files
+.DS_Store
+
+# Object files
+*.o
+
+# Libraries
+*.lib
+*.a
+
+# Executables
+*.out
+*.exe
+test
+test.*
+
+# Temp files
+*.swp
+
+# Debug files
+*.dSYM/
