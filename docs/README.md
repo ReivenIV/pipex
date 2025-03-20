@@ -10,6 +10,7 @@
 - `env` contains system variables, including `PATH`, which helps find executables.
 - `struct t_env` organizes environment variables.
 
+These concepts are the foundation for `pipex`! 🚀
 
 ## 1. `fork()`
 
@@ -251,9 +252,3 @@ int main(int argc, char **argv, char **envp) {
     return 0;
 }
 ```
-
----
-
-
-These concepts are the foundation for `pipex`! 🚀
-
