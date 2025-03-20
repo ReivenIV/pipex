@@ -14,7 +14,7 @@ These concepts are the foundation for `pipex`! 🚀
 
 ## 1. `fork()`
 
-### 📝 What is it?
+
 
 `fork()` is a function that creates a new process by duplicating the current process.
 
@@ -68,7 +68,7 @@ int main() {
 
 ## 2. A **pipe** (`pipe()`)
 
-### 📝 What is it?
+
 
 A pipe is a way for two processes to communicate. It creates a **one-way** data channel where one process writes, and the other reads.
 
@@ -154,7 +154,7 @@ int main() {
 
 ## 4. `execve()`
 
-### 📝 What is it?
+
 
 `execve()` replaces the current process with a new program. It runs an external program inside the current process.
 
@@ -210,7 +210,7 @@ int main(int argc, char **argv, char **envp) {
 
 ## 6. `struct t_env`
 
-### 📝 What is it?
+
 
 A structure to store environment variables in a structured way.
 
